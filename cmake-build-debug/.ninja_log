@@ -1,0 +1,9 @@
+# ninja log v6
+27	1484	7623929940066712	CMakeFiles/Progra_III_Final_Project.dir/main.cpp.obj	51385aa404115b20
+5	266	7623933637485897	build.ninja	8ed6a5b8c87beb9b
+6	820	7623933637907988	CMakeFiles/Progra_III_Final_Project.dir/Movie.cpp.obj	be1bfe4d2665a254
+17	1193	7623933638009563	CMakeFiles/Progra_III_Final_Project.dir/MovieBuilder.cpp.obj	aff43428624308e3
+29	1260	7623933638141590	CMakeFiles/Progra_III_Final_Project.dir/UserInterfaz.cpp.obj	22c60d7a0bb05a1c
+23	2509	7623933638080336	CMakeFiles/Progra_III_Final_Project.dir/Trie.cpp.obj	19be7cd001920cf2
+6	1896	7623935351746934	CMakeFiles/Progra_III_Final_Project.dir/ManejoDatos.cpp.obj	dee588cd3881e9a2
+1897	2718	7623935370665091	Progra_III_Final_Project.exe	bc4ce554c584ed1b
