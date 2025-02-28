@@ -10,10 +10,6 @@
 
 ## Estructura
 
-## Proyecto: Progra-III-Final-Project
-
-### Módulos
-
 ### Main
 
 - **main.cpp**: Archivo principal que ejecuta la lógica del programa.
