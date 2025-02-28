@@ -15,10 +15,10 @@
 - **main.cpp**: Archivo principal que ejecuta la lógica del programa.
 
 #### 📌 Catálogo
-- **Catalog.cpp / Catalog.h**: Implementa la clase `Catalog`, que gestiona la colección de películas y facilita las búsquedas. Implementa el patrón de diseño Singleton.
+- **Catalog.cpp / Catalog.h**: Implementa la clase `Catalog`, que gestiona el catálogo de acciones que puede realizar el usuario como dar Me gusta o Ver mas tarde. Implementa el patrón de diseño Singleton.
 
 #### 🎬 Películas
-- **Movie.cpp / Movie.h**: Representa una película con sus atributos como título, director, género, etc.
+- **Movie.cpp / Movie.h**: Representa una película con sus atributos como título, sinopsis, etiquetas etc.
 - **MovieBuilder.cpp / MovieBuilder.h**: Implementa el patrón de diseño Builder para la construcción de objetos `Movie`.
 - **MovieRepository.cpp / MovieRepository.h**: Se encarga del almacenamiento y recuperación de películas en la base de datos o estructura de almacenamiento. Implementa el patrón de diseño Singleton.
 
