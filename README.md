@@ -26,6 +26,9 @@
 - **Trie.cpp / Trie.h**: Implementación de la estructura de datos Trie para búsqueda eficiente de películas por título, sinopsis o etiquetas.
 - **Node.cpp / Node.h**: Define los nodos utilizados en el Trie o en otras estructuras del sistema. Implementa el patrón de diseño Factory.
 
+## Detalles adicionales
+
+Al clonar el repositorio, no debe olvidar incluir el arcjivo en formato csv llamado "mpst_full_data" dentro de su directorio dmake-build-*/  generado por su IDE.
 
 ## Referencias
 
