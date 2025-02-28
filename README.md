@@ -28,7 +28,7 @@
 
 ## Detalles adicionales
 
-Al clonar el repositorio, no debe olvidar incluir el arcjivo en formato csv llamado "mpst_full_data" dentro de su directorio dmake-build-*/  generado por su IDE.
+Al clonar el repositorio, no debe olvidar incluir el arcjivo en formato csv llamado "mpst_full_data" dentro del directorio dmake-build-*/  generado por su IDE.
 
 ## Referencias
 
