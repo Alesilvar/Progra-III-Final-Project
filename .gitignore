@@ -1,1 +1,12 @@
-cmake-build-debug/
+# Archivos de compilación
+/build/
+cmake-build-*/
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.a
+*.lib
+*.exe
+*.out
