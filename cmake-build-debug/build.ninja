@@ -55,32 +55,38 @@ build CMakeFiles/Progra_III_Final_Project.dir/main.cpp.obj: CXX_COMPILER__Progra
   OBJECT_DIR = CMakeFiles\Progra_III_Final_Project.dir
   OBJECT_FILE_DIR = CMakeFiles\Progra_III_Final_Project.dir
 
-build CMakeFiles/Progra_III_Final_Project.dir/Movie.cpp.obj: CXX_COMPILER__Progra_III_Final_Project_unscanned_Debug C$:/Users/Alessandra/OneDrive$ -$ UNIVERSIDAD$ DE$ INGENIERIA$ Y$ TECNOLOGIA/Documentos/Programacion3/Progra-III-Final-Project/Movie.cpp || cmake_object_order_depends_target_Progra_III_Final_Project
-  DEP_FILE = CMakeFiles\Progra_III_Final_Project.dir\Movie.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Progra_III_Final_Project.dir
-  OBJECT_FILE_DIR = CMakeFiles\Progra_III_Final_Project.dir
-
-build CMakeFiles/Progra_III_Final_Project.dir/ManejoDatos.cpp.obj: CXX_COMPILER__Progra_III_Final_Project_unscanned_Debug C$:/Users/Alessandra/OneDrive$ -$ UNIVERSIDAD$ DE$ INGENIERIA$ Y$ TECNOLOGIA/Documentos/Programacion3/Progra-III-Final-Project/ManejoDatos.cpp || cmake_object_order_depends_target_Progra_III_Final_Project
-  DEP_FILE = CMakeFiles\Progra_III_Final_Project.dir\ManejoDatos.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Progra_III_Final_Project.dir
-  OBJECT_FILE_DIR = CMakeFiles\Progra_III_Final_Project.dir
-
 build CMakeFiles/Progra_III_Final_Project.dir/MovieBuilder.cpp.obj: CXX_COMPILER__Progra_III_Final_Project_unscanned_Debug C$:/Users/Alessandra/OneDrive$ -$ UNIVERSIDAD$ DE$ INGENIERIA$ Y$ TECNOLOGIA/Documentos/Programacion3/Progra-III-Final-Project/MovieBuilder.cpp || cmake_object_order_depends_target_Progra_III_Final_Project
   DEP_FILE = CMakeFiles\Progra_III_Final_Project.dir\MovieBuilder.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Progra_III_Final_Project.dir
   OBJECT_FILE_DIR = CMakeFiles\Progra_III_Final_Project.dir
 
-build CMakeFiles/Progra_III_Final_Project.dir/Trie.cpp.obj: CXX_COMPILER__Progra_III_Final_Project_unscanned_Debug C$:/Users/Alessandra/OneDrive$ -$ UNIVERSIDAD$ DE$ INGENIERIA$ Y$ TECNOLOGIA/Documentos/Programacion3/Progra-III-Final-Project/Trie.cpp || cmake_object_order_depends_target_Progra_III_Final_Project
-  DEP_FILE = CMakeFiles\Progra_III_Final_Project.dir\Trie.cpp.obj.d
+build CMakeFiles/Progra_III_Final_Project.dir/Catalog.cpp.obj: CXX_COMPILER__Progra_III_Final_Project_unscanned_Debug C$:/Users/Alessandra/OneDrive$ -$ UNIVERSIDAD$ DE$ INGENIERIA$ Y$ TECNOLOGIA/Documentos/Programacion3/Progra-III-Final-Project/Catalog.cpp || cmake_object_order_depends_target_Progra_III_Final_Project
+  DEP_FILE = CMakeFiles\Progra_III_Final_Project.dir\Catalog.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Progra_III_Final_Project.dir
   OBJECT_FILE_DIR = CMakeFiles\Progra_III_Final_Project.dir
 
-build CMakeFiles/Progra_III_Final_Project.dir/UserInterfaz.cpp.obj: CXX_COMPILER__Progra_III_Final_Project_unscanned_Debug C$:/Users/Alessandra/OneDrive$ -$ UNIVERSIDAD$ DE$ INGENIERIA$ Y$ TECNOLOGIA/Documentos/Programacion3/Progra-III-Final-Project/UserInterfaz.cpp || cmake_object_order_depends_target_Progra_III_Final_Project
-  DEP_FILE = CMakeFiles\Progra_III_Final_Project.dir\UserInterfaz.cpp.obj.d
+build CMakeFiles/Progra_III_Final_Project.dir/Movie.cpp.obj: CXX_COMPILER__Progra_III_Final_Project_unscanned_Debug C$:/Users/Alessandra/OneDrive$ -$ UNIVERSIDAD$ DE$ INGENIERIA$ Y$ TECNOLOGIA/Documentos/Programacion3/Progra-III-Final-Project/Movie.cpp || cmake_object_order_depends_target_Progra_III_Final_Project
+  DEP_FILE = CMakeFiles\Progra_III_Final_Project.dir\Movie.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Progra_III_Final_Project.dir
+  OBJECT_FILE_DIR = CMakeFiles\Progra_III_Final_Project.dir
+
+build CMakeFiles/Progra_III_Final_Project.dir/MovieRepository.cpp.obj: CXX_COMPILER__Progra_III_Final_Project_unscanned_Debug C$:/Users/Alessandra/OneDrive$ -$ UNIVERSIDAD$ DE$ INGENIERIA$ Y$ TECNOLOGIA/Documentos/Programacion3/Progra-III-Final-Project/MovieRepository.cpp || cmake_object_order_depends_target_Progra_III_Final_Project
+  DEP_FILE = CMakeFiles\Progra_III_Final_Project.dir\MovieRepository.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Progra_III_Final_Project.dir
+  OBJECT_FILE_DIR = CMakeFiles\Progra_III_Final_Project.dir
+
+build CMakeFiles/Progra_III_Final_Project.dir/Node.cpp.obj: CXX_COMPILER__Progra_III_Final_Project_unscanned_Debug C$:/Users/Alessandra/OneDrive$ -$ UNIVERSIDAD$ DE$ INGENIERIA$ Y$ TECNOLOGIA/Documentos/Programacion3/Progra-III-Final-Project/Node.cpp || cmake_object_order_depends_target_Progra_III_Final_Project
+  DEP_FILE = CMakeFiles\Progra_III_Final_Project.dir\Node.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Progra_III_Final_Project.dir
+  OBJECT_FILE_DIR = CMakeFiles\Progra_III_Final_Project.dir
+
+build CMakeFiles/Progra_III_Final_Project.dir/Trie.cpp.obj: CXX_COMPILER__Progra_III_Final_Project_unscanned_Debug C$:/Users/Alessandra/OneDrive$ -$ UNIVERSIDAD$ DE$ INGENIERIA$ Y$ TECNOLOGIA/Documentos/Programacion3/Progra-III-Final-Project/Trie.cpp || cmake_object_order_depends_target_Progra_III_Final_Project
+  DEP_FILE = CMakeFiles\Progra_III_Final_Project.dir\Trie.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Progra_III_Final_Project.dir
   OBJECT_FILE_DIR = CMakeFiles\Progra_III_Final_Project.dir
@@ -93,7 +99,7 @@ build CMakeFiles/Progra_III_Final_Project.dir/UserInterfaz.cpp.obj: CXX_COMPILER
 #############################################
 # Link the executable Progra_III_Final_Project.exe
 
-build Progra_III_Final_Project.exe: CXX_EXECUTABLE_LINKER__Progra_III_Final_Project_Debug CMakeFiles/Progra_III_Final_Project.dir/main.cpp.obj CMakeFiles/Progra_III_Final_Project.dir/Movie.cpp.obj CMakeFiles/Progra_III_Final_Project.dir/ManejoDatos.cpp.obj CMakeFiles/Progra_III_Final_Project.dir/MovieBuilder.cpp.obj CMakeFiles/Progra_III_Final_Project.dir/Trie.cpp.obj CMakeFiles/Progra_III_Final_Project.dir/UserInterfaz.cpp.obj
+build Progra_III_Final_Project.exe: CXX_EXECUTABLE_LINKER__Progra_III_Final_Project_Debug CMakeFiles/Progra_III_Final_Project.dir/main.cpp.obj CMakeFiles/Progra_III_Final_Project.dir/MovieBuilder.cpp.obj CMakeFiles/Progra_III_Final_Project.dir/Catalog.cpp.obj CMakeFiles/Progra_III_Final_Project.dir/Movie.cpp.obj CMakeFiles/Progra_III_Final_Project.dir/MovieRepository.cpp.obj CMakeFiles/Progra_III_Final_Project.dir/Node.cpp.obj CMakeFiles/Progra_III_Final_Project.dir/Trie.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Progra_III_Final_Project.dir
