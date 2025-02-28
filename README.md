@@ -10,7 +10,7 @@
 
 ## Estructura
 
-### Main
+#### Main
 
 - **main.cpp**: Archivo principal que ejecuta la lógica del programa.
 
